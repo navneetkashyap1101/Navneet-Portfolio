@@ -52,12 +52,12 @@ Then just open index.html in your browser — no build step needed.
 
 📬 Let's Connect
 
-<div align="center">
+<!-- <div align="center">
 Show Image
 Show Image
 Show Image
 
-</div>
+</div> -->
 
 <div align="center">
 ⭐ If you like this project, consider giving it a star!
